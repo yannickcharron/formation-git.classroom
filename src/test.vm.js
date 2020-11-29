@@ -1,5 +1,5 @@
 function test() {
-    
+
     const x = true;
     //Nouveau commmentaire
 
@@ -7,5 +7,4 @@ function test() {
         console.log('test');
     }
 
-    
 }
