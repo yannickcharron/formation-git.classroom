@@ -5,7 +5,6 @@ function allo(banane, coconut) {
     return coconut + 1;
 }
 
-
 function kiwi() {
-    console.log('Je m\'appelle pas kiwi');
+    console.log('Je me m\'appelle Kiwi');
 }
