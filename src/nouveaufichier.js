@@ -11,5 +11,8 @@ function kiwi() {
 
 function fonction1() {
 
-    
+}
+
+function fonction2() {
+    const f2= 9;
 }
