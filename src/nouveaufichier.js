@@ -8,3 +8,8 @@ function allo(banane, coconut) {
 function kiwi() {
     console.log('Je me m\'appelle Kiwi');
 }
+
+function fonction1() {
+
+    
+}
